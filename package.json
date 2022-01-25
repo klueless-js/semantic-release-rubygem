@@ -1,5 +1,5 @@
 {
-  "name": "@nedap/semantic-release-rubygem",
+  "name": "@klueless-js/semantic-release-rubygem",
   "version": "0.0.0-development",
   "description": "A semantic-release plugin for publishing Ruby gems",
   "main": "index.js",
@@ -11,9 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nedap/semantic-release-rubygem.git"
+    "url": "https://github.com/klueless-js/semantic-release-rubygem.git"
   },
-  "homepage": "https://github.com/nedap/semantic-release-rubygem#readme",
+  "homepage": "https://github.com/klueless-js/semantic-release-rubygem#readme",
   "keywords": [
     "rubygems",
     "publish",

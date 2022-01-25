@@ -23,7 +23,7 @@ Add the plugin to the [**semantic-release** configuration file](https://github.c
   "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
-    "@nedap/semantic-release-rubygem",
+    "@klueless-js/semantic-release-rubygem",
   ]
 }
 ```
@@ -73,7 +73,7 @@ Example `.releaserc.json`:
   "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
-    ["@nedap/semantic-release-rubygem", {
+    ["@klueless-js/semantic-release-rubygem", {
       "gemHost": "https//rubygems.org",
       "updateGemfileLock": false,
       "gemPublish": true,
