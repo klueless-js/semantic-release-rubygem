@@ -10,3 +10,4 @@ src/__tests__/fixtures/temp
 
 # VSCode settings
 .vscode/settings.json
+.DS_Store
